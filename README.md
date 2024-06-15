@@ -1,4 +1,4 @@
-# Land_Price_Predictor
+# Land Price Predictor
 
 This project implements a linear regression model to predict land prices based on two key features: square footage and the number of bedrooms and bathrooms.
 
